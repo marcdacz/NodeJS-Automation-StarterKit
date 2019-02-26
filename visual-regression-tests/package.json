@@ -1,0 +1,13 @@
+{
+  "name": "visual-regression-tests",
+  "version": "1.0.0",
+  "description": "WebJet Exclusives Visual Regression Tests",
+  "author": "marcDacz",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "backstopjs": "^3.8.8",
+    "yargs": "^13.2.1"
+  }
+}
